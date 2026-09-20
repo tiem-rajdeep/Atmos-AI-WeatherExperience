@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Vercel Build & Runtime Output
+.vercel/
+
+# Operating System & IDE Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.idea/
+.vscode/
