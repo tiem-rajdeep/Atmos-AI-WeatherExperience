@@ -13,7 +13,7 @@ const CONFIG = {
   OWM_BASE_URL: "https://api.openweathermap.org/data/2.5",
 
   // Default city shown on first load
-  DEFAULT_CITY: "London",
+  DEFAULT_CITY: "Kolkata",
 
   // Units: "metric" (°C) or "imperial" (°F)
   UNITS: "metric",
