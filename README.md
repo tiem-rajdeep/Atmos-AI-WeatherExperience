@@ -6,6 +6,14 @@ A visually immersive weather web app where the entire interface transforms based
 
 ---
 
+## Overview
+
+<img width="100%" height="100%" alt="Screenshot 2026-10-08 185243" src="https://github.com/user-attachments/assets/032cc619-1d10-4e3c-94b4-d6765e19db73" />
+
+<img width="100%" height="100%" alt="Screenshot 2026-09-20 133334" src="https://github.com/user-attachments/assets/4b5e2317-2cb5-4673-875c-d363190e2fba" />
+
+
+
 ## ✨ Features
 
 - **6 Weather States** — Clear, Rain, Storm, Snow, Windy, Cloudy, Night variants — each with a distinct animated environment
